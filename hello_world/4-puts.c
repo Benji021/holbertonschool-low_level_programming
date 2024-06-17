@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * main - gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c 
- * Return: Always 0
+ * main - "Programming is like building a multilingual puzzle 
+ * Return: always 0
  */
 int main(void)
 {	
