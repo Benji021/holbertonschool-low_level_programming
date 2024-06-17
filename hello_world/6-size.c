@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - "entry point"
  * printf - will used to display a value
  * value from the sizeof operator
  * return: Always 0
