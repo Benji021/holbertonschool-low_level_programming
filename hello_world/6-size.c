@@ -3,7 +3,7 @@
  * main - "entry point"
  * printf - will used to display a value
  * value from the sizeof operator
- * return: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
