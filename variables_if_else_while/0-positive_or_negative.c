@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * main - 0-positve_or_negative
+ * Return Always 0
+*/
 int main(void)
 {
 	int n;
@@ -22,6 +23,6 @@ int main(void)
 {
 	puts(>>is negative>>);
 }
-	/* your code goes there */
+	puts("\"0-positive_or_negative");
 	return (0);
 }
