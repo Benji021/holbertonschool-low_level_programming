@@ -9,11 +9,12 @@ char n;
 n = 'a';
 	while (n <= 'z')
 {
-	if ((letter != 'q') && (letter != 'e')
 	putchar(n);
 	n++;
-}
-{
-	putchar('\n')
-	return(0)
+	}
+	for ((letter != 'q') && (letter != 'e')
+	}
+	{
+	putchar('\n');
+	return (0);
 }
