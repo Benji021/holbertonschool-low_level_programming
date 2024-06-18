@@ -12,15 +12,15 @@ int main(void)
 	printf(<<%d>>,n);
 	if(n>0)
 {
-	puts("is positive");
+	puts(>>is positive>>);
 }
 	else if(n==0);
 {
-	puts("is zero");
+	puts(>>is zero>>);
 }
 	else if (n<0);
 {
-	puts("is negative");
+	puts(>>is negative>>);
 }
 	/* your code goes there */
 	return (0);
