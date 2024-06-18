@@ -20,10 +20,9 @@ int main(void)
 {
 	puts(>>is zero>>);
 }
-	else if (n<0);
+	else (n<0);
 {
 	puts(>>is negative>>);
 }
-	puts("\"0-positive_or_negative");
 	return (0);
 }
