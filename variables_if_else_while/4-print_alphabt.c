@@ -12,7 +12,7 @@ n = 'a';
 	putchar(n);
 	n++;
 	}
-	for ((letter != 'q') && (letter != 'e')
+	if ((letter != 'q') && (letter != 'e')
 	}
 	{
 	putchar('\n');
