@@ -1,18 +1,18 @@
-#include <stdio>
+ #include <stdio.h>
 /**
  * main - 9 -print_comb.c
  * Return: Always 0
 */
-in main(void)
+int main(void)
 {
-	int n;
+        char n;
 
-	for (n = 0; n <= 9; n++)
-	{
-		putchar((n % 10) + '0');
-		putchar(',');
-		putchar(' ');
-	}
-	putchar('\n');
-	return (0)
+        for (n = '0'; n <= '9'; n++)
+        {
+                putchar(n);
+                putchar(',');
+                putchar(' ');
+        }
+        putchar('\n');
+        return (0);
 }
