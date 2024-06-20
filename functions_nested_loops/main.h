@@ -9,4 +9,5 @@ int main(void);
 int _islower(int c);
 int _isalpha(int c);
 int main(void);
+int main(void);
 #endif
