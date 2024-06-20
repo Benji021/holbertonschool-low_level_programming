@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *_islower - minuscule
- *@c
+ *@c: The character to be che
  *Return: 0
 */
 int _islower(int c)
