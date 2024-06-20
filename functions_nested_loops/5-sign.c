@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * print_sign - sign
  * @n : The number to be che
