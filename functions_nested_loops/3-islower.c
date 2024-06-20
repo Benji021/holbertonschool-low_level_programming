@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - islower
+ * islower - minuscule c
  * Return: 0
 */
 int _islower(int c)
