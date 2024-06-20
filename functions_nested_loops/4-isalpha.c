@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isalpha - lettre
- * @c
+ * @c : The character to be che
  * Return: 0
 */
 int _isalpha(int c)
