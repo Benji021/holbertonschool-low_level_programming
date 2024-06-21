@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * jack_bauer - print minute of days in Jack Bauer
- * Return: 0
+ * Return: void
 */
 void jack_bauer(void)
 {
