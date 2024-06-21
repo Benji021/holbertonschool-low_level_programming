@@ -1,21 +1,25 @@
- #include <stdio.h>
+#include <stdio.h>
 /**
- * main - 9 -print_comb.c
- * Return: Always 0
-*/
+  * main - Prints a serie of numbers with commas
+  *
+  * Return: Always (Success);
+  */
 int main(void)
 {
-	char n;
+	int c;
 
-	for (n = '0'; n <= '9'; n++)
+	for (c = '0'; c <= '9'; c++)
 	{
-	putchar(n);
-	if (n != 9)
-	{
-	putchar(',');
-	putchar(' ');
+		putchar(c);
+
+		if (c != '9')
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
-	}
+
 	putchar('\n');
+
 	return (0);
 }
