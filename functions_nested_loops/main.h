@@ -21,4 +21,6 @@ int main(void);
 void times_table(void);
 int main(void);
 int add(int n1, int n2);
+int main(void);
+void print_to_98(int n);
 #endif
