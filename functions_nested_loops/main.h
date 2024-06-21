@@ -19,4 +19,6 @@ int main(void);
 void jack_bauer(void);
 int main(void);
 void times_table(void);
+int main(void);
+int add(int n1, int n2);
 #endif
