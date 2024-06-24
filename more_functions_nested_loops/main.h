@@ -7,5 +7,5 @@ int _isdigit(int c);
 int main(void);
 int mul(int a, int b);
 int main(void);
-void print_numbers(void;
+void print_numbers(void);
 #endif
