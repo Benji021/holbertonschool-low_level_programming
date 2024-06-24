@@ -1,16 +1,17 @@
 #include "main.h"
+#include <stdio.h>
 /**
-*print_numbers - print 0123456789
-* owned by Bwave ICT
-*Return: void
+ * print_numbers - print 0123456789
+ *@n: character to print
+ *Return: void
 */
 void print_numbers(void)
 {
-	char c;
+	char n;
 
-	for (c = '0'; c <= '9'; c++)
+	for (n = '0'; n <= '9'; n++)
 	{
-		_putchar(c);
+		_putchar(n);
 	}
 		_putchar('\n');
 }
