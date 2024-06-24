@@ -2,20 +2,20 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - isupper
+ * _isupper - c is uppercase
  * @c : character to check
- * Return: 0 or 1
+ * Return: 0
 */
 int _isupper(int c)
 {
 	int ch = 'C';
 		if (isupper(ch))
 		{
-			printf("ch = |%c| is uppercase character\n", ch);
+			printf("'%c' is uppercase character.", ch);
 		}
 		else
 		{
-			printf("ch = |%c| is not uppercase character\n", ch);
+			printf("'%c' is not uppercase character.", ch);
 		}
 	return (0);
 }
