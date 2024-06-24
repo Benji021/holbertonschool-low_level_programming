@@ -9,7 +9,7 @@
 */
 int mul(int a, int b)
 {
-	int a = 1;
-	int b = 2;
+	if (a >= 0, a <= 9, a++)
+	else if (b >= 0, b <= 9, b++)
 	return (a * b);
 }
