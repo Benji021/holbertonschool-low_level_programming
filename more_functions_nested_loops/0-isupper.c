@@ -4,18 +4,13 @@
 /**
  * _isupper - c is uppercase
  * @c : character to check
- * Return: 0
+ * Return: 1 for uppercase letter or 0 for else
 */
 int _isupper(int c)
 {
-	int ch = 'C';
-		if (isupper(ch))
+		if (c >= 'A' && c <= 'Z')
 		{
-			printf("'%c' is uppercase character.", ch);
-		}
-		else
-		{
-			printf("'%c' is not uppercase character.", ch);
+		return (1);
 		}
 	return (0);
 }
