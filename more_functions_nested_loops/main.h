@@ -17,4 +17,6 @@ int main(void);
 void print_line(int n);
 int main(void);
 void print_diagonal(int n);
+int main(void);
+void print_square(int size);
 #endif
