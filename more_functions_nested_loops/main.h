@@ -15,4 +15,6 @@ int main(void);
 void more_numbers(void);
 int main(void);
 void print_line(int n);
+int main(void);
+void print_diagonal(int n);
 #endif
