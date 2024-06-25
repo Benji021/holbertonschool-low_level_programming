@@ -9,4 +9,6 @@ int mul(int a, int b);
 int main(void);
 void print_numbers(void);
 int _putchar(char c);
+int main(void);
+void print_most_numbers(void);
 #endif
