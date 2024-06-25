@@ -8,7 +8,7 @@ void print_most_numbers(void)
 {
 	char n;
 
-	int (n >= '0', n <= '9', n++)
+	int (n = '0', n <= '9', n++)
 		if (n == '2' || n == '4')
 		{
 			n++;
@@ -16,6 +16,6 @@ void print_most_numbers(void)
 		{
 		_putchar(n);
 		}
-		_putchar("\n"),
+		_putchar('\n'),
 }
 
