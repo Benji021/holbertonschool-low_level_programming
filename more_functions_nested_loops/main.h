@@ -12,4 +12,5 @@ int _putchar(char c);
 int main(void);
 void print_most_numbers(void);
 int main(void);
+void more_numbers(void);
 #endif
