@@ -7,4 +7,6 @@ int main(void);
 void swap_int(int *a, int *b);
 int main(void);
 int _strlen(char *s);
+int main(void);
+void _puts(char *str);
 #endif
