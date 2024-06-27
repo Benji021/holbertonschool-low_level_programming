@@ -13,4 +13,6 @@ int main(void);
 void print_rev(char *s);
 int main(void);
 void rev_string(char *s);
+int main(void);
+void puts2(char *str);
 #endif
