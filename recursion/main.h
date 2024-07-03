@@ -9,4 +9,6 @@ int main(void);
 int _strlen_recursion(char *s);
 int main(void);
 int factorial(int n);
+int main(void);
+int _pow_recursion(int x, int y);
 #endif
