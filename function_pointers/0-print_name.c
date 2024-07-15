@@ -5,12 +5,14 @@
 #include "function_pointers.h"
 /**
  * print_name - that prints a name
- * @name : pointer name
+ * @name : name print
  * @f : pointer fonction
  * Return: void
 */
 void print_name(char *name, void (*f)(char *))
 {
-	printf("Bob %s\n", name);
-	printf("Bob Dylan %s\n", name);
+    if (name != NULL && f != NULL)
+    {
+        f(name);
+    }
 }
