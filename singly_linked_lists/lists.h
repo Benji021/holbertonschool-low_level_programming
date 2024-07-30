@@ -29,4 +29,6 @@ int main(void);
 list_t *add_node(list_t **head, const char *str);
 int main(void);
 list_t *add_node_end(list_t **head, const char *str);
+int main(void);
+void free_list(list_t *head);
 #endif
