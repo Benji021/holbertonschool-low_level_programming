@@ -36,4 +36,6 @@ int main(void);
 int sum_dlistint(dlistint_t *head);
 int main(void);
 dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n);
+int main(void);
+int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 #endif
