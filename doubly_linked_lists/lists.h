@@ -26,4 +26,6 @@ int main(void);
 size_t dlistint_len(const dlistint_t *h);
 int main(void);
 dlistint_t *add_dnodeint(dlistint_t **head, const int n);
+int main(void);
+dlistint_t *add_dnodeint_end(dlistint_t **head, const int n);
 #endif
