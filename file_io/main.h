@@ -1,5 +1,7 @@
-#ifndef MAIN
-#define MAIN
+#ifndef MAIN_H
+#define MAIN_H
+
+#include <unistd.h>
 #include <stddef.h>
 
 int main(int ac, char **av);
