@@ -8,4 +8,6 @@ int main(void);
 int get_bit(unsigned long int n, unsigned int index);
 int main(void);
 int set_bit(unsigned long int *n, unsigned int index);
+int main(void);
+int clear_bit(unsigned long int *n, unsigned int index);
 #endif
