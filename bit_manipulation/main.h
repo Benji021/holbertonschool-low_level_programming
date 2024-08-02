@@ -10,4 +10,6 @@ int main(void);
 int set_bit(unsigned long int *n, unsigned int index);
 int main(void);
 int clear_bit(unsigned long int *n, unsigned int index);
+int main(void);
+unsigned int flip_bits(unsigned long int n, unsigned long int m);
 #endif
